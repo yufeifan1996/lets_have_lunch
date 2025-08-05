@@ -1,4 +1,4 @@
-# Let’s Have Lunch 🍱
+# Let’s Have Lunch 
 
 ## Overview
 
